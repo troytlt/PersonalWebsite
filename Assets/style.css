@@ -16,6 +16,7 @@ html {
     background-color: white;
     padding: 30px;
     margin-bottom: 30px;
+    text-align: justify;
 }
 .block-header {
     /*Typography */
